@@ -27,7 +27,7 @@ const Testimonial = () => {
 
                 <div className="testimonial-info">
                   <h3>Richard Denial</h3>
-                  <span>IT Executive</span>
+                  <span>Ux/Ui Design</span>
                 </div>
 
                 <div className="testimonial-content">
@@ -35,10 +35,7 @@ const Testimonial = () => {
                     <i className="flaticon-quote"></i>
                   </div>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Quis ipsum suspendisse ultrices gravida. Risus
-                    commodo viverra maecenas accumsan lacus vel facilisis.
+                  LathiTech's UX/UI design services exceeded our expectations. Their expertise and creativity transformed our software, resulting in an intuitive and visually stunning product. The team is highly professional, innovative, and a pleasure to work with.
                   </p>
                 </div>
               </div>
@@ -52,7 +49,7 @@ const Testimonial = () => {
 
                 <div className="testimonial-info">
                   <h3>Sarah Taylor</h3>
-                  <span>Lead Architecure</span>
+                  <span>Mobile App Development(Android/Ios)</span>
                 </div>
 
                 <div className="testimonial-content">
@@ -60,10 +57,7 @@ const Testimonial = () => {
                     <i className="flaticon-quote"></i>
                   </div>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Quis ipsum suspendisse ultrices gravida. Risus
-                    commodo viverra maecenas accumsan lacus vel facilisis.
+                  LathiTech delivered outstanding mobile app development for both iOS and Android. Their team demonstrated exceptional expertise, creating a seamless and user-friendly app. Highly professional, responsive, and committed to excellence. Highly recommend their services.
                   </p>
                 </div>
               </div>
@@ -76,17 +70,14 @@ const Testimonial = () => {
                 </div>
                 <div className="testimonial-info">
                   <h3>Alastair Cook</h3>
-                  <span>Marketing Manager</span>
+                  <span>Web App Development</span>
                 </div>
                 <div className="testimonial-content">
                   <div className="icon">
                     <i className="flaticon-quote"></i>
                   </div>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Quis ipsum suspendisse ultrices gravida. Risus
-                    commodo viverra maecenas accumsan lacus vel facilisis.
+                  LathiTech's web app development services are top-notch. They built a robust and user-friendly application tailored to our needs. The team's professionalism, technical expertise, and dedication to quality are truly impressive. Highly recommended.
                   </p>
                 </div>
               </div>

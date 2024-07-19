@@ -202,33 +202,35 @@ const Navbar = () => {
                         </Link>
                       </li>
 
-                      <li className="nav-item">
+                      {/* <li className="nav-item">
                         <Link href="/partner" activeClassName="active">
                           <a className="nav-link">Partner</a>
                         </Link>
-                      </li>
+                      </li> */}
 
-                      <li className="nav-item">
+                      {/* <li className="nav-item">
                         <Link href="/faq" activeClassName="active">
                           <a className="nav-link">FAQ</a>
                         </Link>
-                      </li>
+                      </li> */}
 
-                      <li className="nav-item">
+                      {/* <li className="nav-item">
                         <Link href="/coming-soon" activeClassName="active">
                           <a className="nav-link">Coming Soon</a>
                         </Link>
-                      </li>
+                      </li> */}
 
-                      <li className="nav-item">
+                      {/* <li className="nav-item">
                         <Link href="/404" activeClassName="active">
                           <a className="nav-link">404 Error Page</a>
                         </Link>
-                      </li>
+                      </li> */}
                     </ul>
                   </li>
+                  
 
-                  <li className="nav-item">
+                  {
+                  /* <li className="nav-item">
                     <Link href="#">
                       <a className="nav-link">
                         Blog <i className="fas fa-chevron-down"></i>
@@ -260,6 +262,12 @@ const Navbar = () => {
                         </Link>
                       </li>
                     </ul>
+                  </li> */}
+                 
+                 <li className="nav-item">
+                    <Link href="/careers" activeClassName="active">
+                      <a className="nav-link">Careers</a>
+                    </Link>
                   </li>
 
                   <li className="nav-item">

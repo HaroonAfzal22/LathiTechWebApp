@@ -126,20 +126,32 @@ const Footer = () => {
 
                 <div className="footer-info-contact">
                   <i className="flaticon-call-answer"></i>
-                  <h3>Phone</h3>
-                  <span>+123(456)123</span>
+                  <h3> Phone</h3>
+                  <span>Uk  : +447301843557</span>
+                  
+                </div>
+                <div className="footer-info-contact">
+                 
+                 
+                  <span>Pk : +923077770014</span>
+                  
                 </div>
 
                 <div className="footer-info-contact">
                   <i className="flaticon-envelope"></i>
                   <h3>Email</h3>
-                  <span>hello@raxr.com</span>
+                  <span>lt.lathitech@gmail.com</span>
                 </div>
+                
 
                 <div className="footer-info-contact">
                   <i className="flaticon-maps-and-flags"></i>
                   <h3>Address</h3>
-                  <span>32 st Kilda Road, Melbourne VIC, 3004 Australia</span>
+                  <span>32 65 devere garden, IG1 3EF  London,Uk</span>
+                </div>
+                <div className="footer-info-contact">
+                  
+                  <span>PLAZA no. 496-E FIRST FLOOR   TAJPURA SCHEME LAHORE, PAKISTAN</span>
                 </div>
               </div>
             </div>
@@ -156,9 +168,7 @@ const Footer = () => {
           <img src="/images/shape/partnar-shape-2.png" alt="image" />
         </div>
       </footer>
-      {/* End Top Footer Section */}
-
-      {/* Bottom Footer Section */}
+    
       <div className="copyright-area">
         <div className="container">
           <div className="row align-items-center">

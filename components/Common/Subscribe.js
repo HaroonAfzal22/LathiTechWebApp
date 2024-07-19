@@ -10,7 +10,7 @@ const Subscribe = () => {
               <div className="subscribe-content">
                 <h2>Sign Up For Newsletter</h2>
                 <span className="sub-title">
-                  And Receive 40% Discount On First Project
+                  And Receive 15% Discount On First Project
                 </span>
               </div>
             </div>

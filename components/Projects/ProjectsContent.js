@@ -8,7 +8,7 @@ const ProjectsContent = () => {
         <div className="container">
           <div className="section-title">
             <span>Project</span>
-            <h2>Our Latest Project</h2>
+            <h2>Our Latest Projects</h2>
           </div>
 
           <div className="row">
@@ -21,7 +21,7 @@ const ProjectsContent = () => {
                 <div className="image-hover">
                   <div className="text">
                     <h3>
-                      <Link href="/project-details">
+                      <Link href="/careers-details">
                         <a>Data is the new science big data holds the answer</a>
                       </Link>
                     </h3>
@@ -40,7 +40,7 @@ const ProjectsContent = () => {
                 <div className="image-hover">
                   <div className="text">
                     <h3>
-                      <Link href="/project-details">
+                      <Link href="/careers-details">
                         <a>Data is the new science big data holds the answer</a>
                       </Link>
                     </h3>
@@ -59,7 +59,7 @@ const ProjectsContent = () => {
                 <div className="image-hover">
                   <div className="text">
                     <h3>
-                      <Link href="/project-details">
+                      <Link href="/careers-details">
                         <a>Data is the new science big data holds the answer</a>
                       </Link>
                     </h3>
@@ -78,7 +78,7 @@ const ProjectsContent = () => {
                 <div className="image-hover">
                   <div className="text">
                     <h3>
-                      <Link href="/project-details">
+                      <Link href="/careers-details">
                         <a>Data is the new science big data holds the answer</a>
                       </Link>
                     </h3>
@@ -97,7 +97,7 @@ const ProjectsContent = () => {
                 <div className="image-hover">
                   <div className="text">
                     <h3>
-                      <Link href="/project-details">
+                      <Link href="/careers-details">
                         <a>Data is the new science big data holds the answer</a>
                       </Link>
                     </h3>
@@ -116,7 +116,7 @@ const ProjectsContent = () => {
                 <div className="image-hover">
                   <div className="text">
                     <h3>
-                      <Link href="/project-details">
+                      <Link href="/careers-details">
                         <a>Data is the new science big data holds the answer</a>
                       </Link>
                     </h3>

@@ -18,7 +18,7 @@ const FunFacts = () => {
                   820
                   <span className="sign-icon">+</span>
                 </h3>
-                <p>Data Analytics</p>
+                <p>Total Jobs</p>
               </div>
             </div>
 
@@ -34,7 +34,7 @@ const FunFacts = () => {
                   150
                   <span className="sign-icon">+</span>
                 </h3>
-                <p>Data Management</p>
+                <p>Web App Development</p>
               </div>
             </div>
 
@@ -50,7 +50,7 @@ const FunFacts = () => {
                   20
                   <span className="sign-icon">+</span>
                 </h3>
-                <p>Managed Analytics</p>
+                <p>Mobile App Development</p>
               </div>
             </div>
 
@@ -66,7 +66,7 @@ const FunFacts = () => {
                   120
                   <span className="sign-icon">+</span>
                 </h3>
-                <p>Big Data</p>
+                <p>Deployment</p>
               </div>
             </div>
           </div>
